@@ -1,6 +1,6 @@
 # Dynamic TIFF Image Blender
 
-This project demonstrates a ** dynamic TIFF image blender ** using React for the frontend and FastAPI for the backend. It allows users to adjust blending weights between two TIFF images dynamically, leveraging debounced slider inputs for seamless user interaction.
+This project demonstrates a **dynamic TIFF image blender** using React for the frontend and FastAPI for the backend. It allows users to adjust blending weights between two TIFF images dynamically, leveraging debounced slider inputs for seamless user interaction.
 
 ---
 
